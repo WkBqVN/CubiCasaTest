@@ -18,7 +18,7 @@
 - [x] Good to use `docker/docker-compose` for local development setup(not mandatory) (basic setup)
 - [x] Good to provide the solution with security concern (base Auth)
 
-**Docker**
+**Run**
 Command : docker-compose up
 
 **Framework used**
