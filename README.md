@@ -6,6 +6,7 @@
 - Design is diff with standard because new idea(7 day is short to fix design, so I choose design base on my view)
 - Config is running for docker. if test local please change data in .env then run postgresql in local
 - Details is provided in doc and some comment in code please check it for api some other information
+- Admin account is "admin" : "admin"
 
 **Todo**
 
